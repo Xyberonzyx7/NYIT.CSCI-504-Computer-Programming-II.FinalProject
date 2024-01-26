@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <user>
+        <name>AI_BOB</name>
+        <password>bob</password>
+        <balance>12541</balance>
+        <loan>0</loan>
+    </user>
+    <user>
+        <name>AI_JOY</name>
+        <password>joy</password>
+        <balance>4000</balance>
+        <loan>0</loan>
+    </user>
+</data>
